@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/foodstore/static/css/main.62532236.chunk.css",
-    "main.js": "/foodstore/static/js/main.7f89108a.chunk.js",
-    "main.js.map": "/foodstore/static/js/main.7f89108a.chunk.js.map",
+    "main.js": "/foodstore/static/js/main.bf0ff963.chunk.js",
+    "main.js.map": "/foodstore/static/js/main.bf0ff963.chunk.js.map",
     "runtime-main.js": "/foodstore/static/js/runtime-main.2b3e97da.js",
     "runtime-main.js.map": "/foodstore/static/js/runtime-main.2b3e97da.js.map",
     "static/js/2.8dccb73d.chunk.js": "/foodstore/static/js/2.8dccb73d.chunk.js",
     "static/js/2.8dccb73d.chunk.js.map": "/foodstore/static/js/2.8dccb73d.chunk.js.map",
     "index.html": "/foodstore/index.html",
-    "precache-manifest.5686ce103b34b9aab9c3fc08b69a4442.js": "/foodstore/precache-manifest.5686ce103b34b9aab9c3fc08b69a4442.js",
+    "precache-manifest.24f124ef2f52528dc0437e293a990ec2.js": "/foodstore/precache-manifest.24f124ef2f52528dc0437e293a990ec2.js",
     "service-worker.js": "/foodstore/service-worker.js",
     "static/css/main.62532236.chunk.css.map": "/foodstore/static/css/main.62532236.chunk.css.map",
     "static/js/2.8dccb73d.chunk.js.LICENSE.txt": "/foodstore/static/js/2.8dccb73d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2b3e97da.js",
     "static/js/2.8dccb73d.chunk.js",
     "static/css/main.62532236.chunk.css",
-    "static/js/main.7f89108a.chunk.js"
+    "static/js/main.bf0ff963.chunk.js"
   ]
 }
